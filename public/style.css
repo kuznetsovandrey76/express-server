@@ -1,0 +1,11 @@
+* {
+	margin: 0;
+}
+.main {
+	margin: 10px;
+}
+a {
+	text-decoration: none;
+	background: lightgreen;
+	padding: 1px;
+}
