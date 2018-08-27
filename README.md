@@ -1,7 +1,7 @@
 1. `touch app.js`
 2. `npm init`
 3. `npm install express --save`
-4. `touch Procfile` in Procfile `web: node app.js`
+4. `touch Procfile` in Procfile `web: node app.js`  
 +. Все данные в папке `public`
 5. Create app in Heroku
 6. `Deploy` via GitHub
